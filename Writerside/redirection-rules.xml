@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/redirection-rules.dtd">
+<rules>
+    <rule id="${ID}">
+        <accepts>page.html</accepts>
+    </rule>
+    <rule id="4f9bd844">
+        <description>Created after removal of "About firstinstance" from firstinstance</description>
+        <accepts>firstinstance.html</accepts>
+    </rule>
+    <rule id="29ecbb88">
+        <description>Created after removal of "Table of Contents" from firstinstance</description>
+        <accepts>table-of-contents.html</accepts>
+    </rule>
+</rules>

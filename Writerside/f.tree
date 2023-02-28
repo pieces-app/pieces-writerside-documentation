@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/product-profile.dtd">
+
+<instance-profile id="f"
+                 name="Pieces for Developers"
+                 start-page="overview.md">
+
+    <toc-element topic="overview.md" accepts-web-file-names-ref="4f9bd844"/>
+    <toc-element topic="use-cases.md"/>
+    <toc-element topic="faq.md"/>
+    <toc-element topic="getting-started.md" toc-title="Getting Started + Installation">
+        <toc-element topic="windows.md"/>
+        <toc-element topic="macos.md"/>
+        <toc-element topic="linux.md"/>
+    </toc-element>
+    <toc-element topic="highlights-and-benefits.md">
+        <toc-element topic="stay-in-flow-with-single-click-save.md"/>
+        <toc-element topic="suggested-save-and-on-device-pattern-engine.md"/>
+        <toc-element topic="drag-and-drop-to-manage-resources.md"/>
+        <toc-element topic="in-project-snippet-discovery.md"/>
+        <toc-element topic="image-to-code.md"/>
+    </toc-element>
+    <toc-element topic="managing-and-updating-your-saved-resources.md"/>
+    <toc-element topic="ai-powered-material-enrichment-and-metadata-association.md" toc-title="AI Enrichment and Metadata">
+        <toc-element topic="context-awareness-engine-and-origin-details.md"/>
+        <toc-element topic="ai-generated-smart-descriptions.md"/>
+        <toc-element topic="related-links-external-resources-and-reference-materials.md"/>
+        <toc-element topic="ai-generated-smart-labels-and-user-added-tags.md"/>
+        <toc-element topic="related-people-and-associated-collaborators.md"/>
+        <toc-element topic="smart-warnings-and-sensitive-information-detection.md"/>
+    </toc-element>
+    <toc-element topic="global-search-sort-via-suggestions-reference-and-reuse-saved-materials.md" toc-title="Global Search, Suggestions, and Reuse">
+        <toc-element topic="in-editor-global-search.md"/>
+        <toc-element topic="fine-tune-your-global-search-with-result-display-modes-and-sort-preferences.md"/>
+        <toc-element topic="reuse-saved-materials-with-atomic-auto-complete.md"/>
+        <toc-element topic="toggling-realtime-and-scope-relevant-suggestions.md"/>
+        <toc-element topic="suggested-snippets-right-inside-your-IDE.md"/>
+        <toc-element topic="accessing-saved-material-overviews-from-the-in-IDE-list-view.md"/>
+        <toc-element topic="workflow-activity-stream-and-process-backtracking.md"/>
+    </toc-element>
+    <toc-element topic="personalized-link-sharing-of-saved-materials-and-their-context-metadata.md" toc-title="Link Sharing Saved Materials and Context">
+        <toc-element topic="select-right-click-and-link-share-directly-in-your-ide.md"/>
+        <toc-element topic="access-and-save-offline-shared-links.md"/>
+    </toc-element>
+    <toc-element topic="keyboard-shortcuts.md"/>
+    <toc-element topic="troubleshooting.md"/>
+    <toc-element topic="resources.md"/>
+    <toc-element topic="community-and-feedback.md"/>
+</instance-profile>

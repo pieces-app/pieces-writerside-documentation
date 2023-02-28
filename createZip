@@ -1,0 +1,2 @@
+#!/bin/sh
+zip -r ./starterTemplate.zip ./Writerside -x \*.DS_Store

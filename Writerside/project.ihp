@@ -3,7 +3,7 @@
 
 <ihp version="2.0">
     <topics dir="topics"/>
-    <images dir="images"/>
+    <images dir="images" web-path="img"/>
     <instance src="hi.tree" web-path="/hi/" version="1.0"/>
     <instance src="f.tree" web-path="/f/" version="1.0"/>
 </ihp>

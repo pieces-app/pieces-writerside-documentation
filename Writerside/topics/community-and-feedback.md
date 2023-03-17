@@ -10,4 +10,4 @@ We want to hear what you think! Reach out to us and let us know how you liked ou
 
 ### Leave us a *(positive or constructive)* product review
 - We are a small and passionate team of developers building an amazing suite of products for developer productivity and to augment existing workflows. Whether you’ve had a positive or negative experience with a Pieces for Developers product, we want to hear from you. Please leave us a positive or constructive review on what you think about our products as any bit of feedback helps us on our mission.
-
+> [Leave a Review here](https://plugins.jetbrains.com/plugin/17328-pieces--save-search-share--reuse-code-snippets/reviews)

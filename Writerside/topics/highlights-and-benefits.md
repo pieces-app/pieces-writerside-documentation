@@ -1,6 +1,6 @@
 [//]: # (title: Highlights & Benefits)
 
-![](https://storage.googleapis.com/pieces_static_resources/vs_code_marketplace/GIFs/MATERIAL_TYPES)
+![](/MATERIAL_TYPES.png){width="400"}
 
 Pieces for Developers was built from the ground up to serve as a centralized place to save all types of materials and resources related to a developer's work-in-progress journey.
 

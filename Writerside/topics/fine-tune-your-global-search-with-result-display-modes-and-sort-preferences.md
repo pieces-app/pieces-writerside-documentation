@@ -2,9 +2,9 @@
 
 ![](SEARCH_SETTINGS_INTELLIJ.gif)
 
-> Not able to find what you're looking for? Try out our different Global Search Preferences.
+> Can't find what you're looking for? Try out our different Global Search Preferences.
 
-As a result of automatic material enrichment, there is a bunch of helpful metadata associated with each saved material. With that, you can mix and match different search preferences and result display modes in a way that best matches your search style.
+As a result of automatic material enrichment, Pieces associates a ton of helpful metadata with each saved material. With that, you can mix and match different search preferences and result display modes in a way that best matches your search style.
 From the Pieces for JetBrains settings, you can choose the following search result actions:
 - Open the snippet (default)
 - Insert the snippet

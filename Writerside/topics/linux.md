@@ -3,7 +3,7 @@
 
 > *Compatible with [**Ubuntu**](https://releases.ubuntu.com/18.04/) 18 or higher and is currently in beta* 
 
-1. From the Snapcraft Store install the Pieces for Developers | OS Server Snap Package or run the following in the terminal:
+1. From the Snapcraft Store, install the Pieces for Developers | OS Server Snap Package or run the following in the terminal:
 ```shell 
      $ sudo snap install pieces-os
    ```
@@ -25,7 +25,7 @@
 
 5. Launch JetBrains and install our Pieces for Developers | JetBrains Plugin
 
-If you have already installed our JetBrains Plugin, and it's having trouble connecting the Pieces for Developers | OS Server background service, try the following quick [Troubleshooting Solutions](troubleshooting.md "Troubleshooting").
+If you've already installed our JetBrains Plugin and it's having trouble connecting the Pieces for Developers | OS Server background service, try the following quick [Troubleshooting Solutions](troubleshooting.md "Troubleshooting").
 
 ### Watch our [**Getting Started Video**](https://youtu.be/C8S3URf7MLE)
 

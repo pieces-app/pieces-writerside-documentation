@@ -6,9 +6,9 @@
   
 ![](INSTALL_WINDOWS.gif)
 
-2. Make sure **Pieces for Developers | OS Server** is Running in the Background.
+2. Make sure **Pieces for Developers | OS Server** is running in the background.
 3. Launch JetBrains and install our **Pieces for Developers | JetBrains Plugin**
-    -  If you have already installed our JetBrains Plugin, and it's having trouble connecting the Pieces for Developers | OS Server background service try the following quick [Troubleshooting Solutions](troubleshooting.md "Troubleshooting")
+    -  If you've already installed our JetBrains Plugin and it's having trouble connecting the Pieces for Developers | OS Server background service, try these quick [Troubleshooting Solutions](troubleshooting.md "Troubleshooting").
 
 ### Watch our [**Getting Started Video**](https://youtu.be/C8S3URf7MLE)
 

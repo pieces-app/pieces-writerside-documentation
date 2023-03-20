@@ -4,7 +4,7 @@ Saving, reclassifying, and reusing code in the Pieces for Developers | JetBrains
 
 - **Create a snippet**: Highlight some code in your editor and drag it to the Pieces window to save it as a new snippet. Pieces automatically associates all of the usual context with the new snippet, but if you want to ensure that it’s classified as a certain language, just drag it to that section of the List View.
 
-- **Reuse a Snippet**: Finally, it just got super simple to place a snippet exactly where you want it in your editor. Just drag a snippet from your Pieces list to wherever you want it to be, then keep on coding.
+- **Reuse a Snippet**: It just got super simple to place a snippet exactly where you want it in your editor. Just drag a snippet from your Pieces list to wherever you want it to be, then keep on coding.
 
 ![](DRAG_AND_DROP1.gif)
 

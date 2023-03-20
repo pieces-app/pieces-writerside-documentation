@@ -1,7 +1,7 @@
 [//]: # (title: Keyboard Shortcuts)
 
 ## Keyboard Shortcuts {id="keyboard-shortcuts-1"}
-Unlock more time savings by using handy keyboard shortcuts for all of the Pieces for Developers | JetBrains Plugin functionality.
+Unlock more time by using handy keyboard shortcuts for all of the Pieces for Developers | JetBrains Plugin functionality.
 
 | Command               | macOS        | Windows/Linux         |
 | --------------------- | ------------ | --------------------- |
